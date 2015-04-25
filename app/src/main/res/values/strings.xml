@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ex1</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- hat resources-->
+    <string name="hat_none_text">None</string>
+    <string name="hat_1_text">panama</string>
+
+
+</resources>

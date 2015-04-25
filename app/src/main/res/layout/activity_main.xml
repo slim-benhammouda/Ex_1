@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <fragment android:id="@+id/controller_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        class="com.iit.ex1.fragment.ControllerFragment"/>
+
+    <fragment android:id="@+id/main_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.iit.ex1.fragment.MainFragment"/>
+
+
+</LinearLayout>

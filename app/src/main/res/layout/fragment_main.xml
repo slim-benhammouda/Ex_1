@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity$PlaceholderFragment">
+
+    <ImageView
+        android:id="@+id/main_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/hat_image"
+        android:layout_marginTop="@dimen/hat_top_margin"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="@dimen/hat_left_margin"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
